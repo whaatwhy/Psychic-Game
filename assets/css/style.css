@@ -10,7 +10,7 @@ html, body{
 	line-height: 34px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-repeat: no-repeat;
-    background-color: #ffcfbc;  
+    background-color: lightgreen;  
     height: 100%;  	
 }
 .wrapper {
